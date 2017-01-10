@@ -237,6 +237,7 @@ Eles podem ser:
 * binary
 * boolean
 * uuid
+* year
 
 Há algumas heurísticas para a escolha de tipos de campos que não são especificados 
 ou são definidos com valor inválido. O tipo de campo padrão é ``string``;
